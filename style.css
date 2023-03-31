@@ -1,0 +1,44 @@
+body{
+  background-color: darkgrey;
+    margin: 0;
+}
+.navb {
+    background-color: rgb(121, 191, 234);
+    padding: 10px;
+}
+.sub_nav {
+ border: 10px;
+ padding: 10px;
+}
+.nav_link{
+    text-decoration: none;
+    color: black;
+}
+.css_pic{
+   
+    width: 200px;
+    height: 200px;
+    text-align: center;
+   box-shadow: 1px;
+}
+.css{
+    margin-top: 80px;
+   text-align: center;
+   
+}
+
+.h_div{
+    text-align: center;
+}
+.btn{
+   width: 100px;
+   height: 50px;
+   border-radius: 10px;
+   text-decoration: double;
+    color: aliceblue;
+   background-color: rgb(32, 118, 231);
+   size: 10px;
+}
+.btn_div{
+    text-align: center;
+}
